@@ -1,3 +1,4 @@
+//inicializaciando la API
 const url = "https://jsonplaceholder.typicode.com";
 
 const getUser = async (id) => {
